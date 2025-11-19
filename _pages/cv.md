@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Shashank Chalamalasetty - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
